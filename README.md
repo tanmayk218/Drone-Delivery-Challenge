@@ -1,6 +1,8 @@
 # Drone-Delivery-Challenge
-A program to schedule drone delivery
+A program to schedule drone delivery.
 
+
+I have bundled sample input and output files
 
 
 # Assumptions:
