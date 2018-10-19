@@ -1,7 +1,9 @@
 # Drone-Delivery-Challenge
 A program to schedule drone delivery
 
-Assumptions:
+
+
+# Assumptions:
 
 1. Drone goes to a customer's location to drop an item, then comes back to the wareouse to pick up another item and goes to deliver that item.
 2. Drone's speed is 1 block per minute. N2E6  
